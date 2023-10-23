@@ -14,6 +14,7 @@ Este proyecto consiste en la creación de una API que permite a las personas usu
 
 
 ## Dependencias del Proyecto
+
 | Nombre        | Versión           | Link  | Comando - "CMD" |
 | ------------- |:-------------:| -----:| ----------------------------:|
 | Swagger | v18.18.2 | [Link](https://docs.nestjs.com/openapi/introduction) | npm install --save @nestjs/swagger |
