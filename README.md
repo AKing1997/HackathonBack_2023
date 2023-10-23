@@ -14,7 +14,6 @@ Este proyecto consiste en la creación de una API que permite a las personas usu
 
 
 ## Dependencias del Proyecto
-```bash
 | Nombre        | Versión           | Link  | Comando - "CMD" |
 | ------------- |:-------------:| -----:| ----------------------------:|
 | Swagger | v18.18.2 | [Link](https://docs.nestjs.com/openapi/introduction) | npm install --save @nestjs/swagger |
@@ -22,7 +21,6 @@ Este proyecto consiste en la creación de una API que permite a las personas usu
 | Class-validator & Class-transformer | v10.2.1 | [Link](https://docs.nestjs.com/pipes#class-validator) | npm i --save class-validator class-transformer |
 | Bcrypt | v10.2.1 | [Link](https://docs.nestjs.com/security/encryption-and-hashing#hashing) | npm i bcrypt & npm i -D @types/bcrypt |
 | JWT | v10.2.1 | [Link](https://docs.nestjs.com/security/authentication#jwt-token) | npm install --save @nestjs/jwt |
-```
 
 #### ``1. Modelo de Skin``
 Hemos definido una estructura de datos para representar las skins. Cada skin tiene campos como `id`, `nombre`, `tipo`, `precio`, `color`, entre otros. Este modelo sirve como base para gestionar las skins en la aplicación.
