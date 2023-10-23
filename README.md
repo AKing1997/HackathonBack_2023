@@ -5,13 +5,13 @@ Este proyecto consiste en la creación de una API que permite a las personas usu
 ## Requisitos del Proyecto
 
 #### ``Aplicaciones necesarias para funcionamiento de proyecto``
-```bash
+
 | Nombre        | Versión           | Link  | Comando - "CMD" |
 | ------------- |:-------------:| -----:| ----------------------------:|
 | Node | v18.18.2 | [Link](https://nodejs.org/dist/v18.18.2/node-v18.18.2-x64.msi) | |
 | NPM | v10.2.1 | [Link](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) | npm install -g npm@10.2.1 |
 | NestJS | v10.1.18 | [Link](https://docs.nestjs.com/first-steps) | npm i -g @nestjs/cli |
-```
+
 
 ## Dependencias del Proyecto
 ```bash
