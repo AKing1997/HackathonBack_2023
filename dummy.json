@@ -1,0 +1,122 @@
+[
+    {
+      "Nombre": "Crimson Comet",
+      "Precio": 9.99,
+      "Color": "Red",
+      "Tipos": "Common"
+    },
+    {
+      "Nombre": "Azure Assault",
+      "Precio": 14.99,
+      "Color": "Blue",
+      "Tipos": "Rare"
+    },
+    {
+      "Nombre": "Emerald Enforcer",
+      "Precio": 19.99,
+      "Color": "Green",
+      "Tipos": "Epic"
+    },
+    {
+      "Nombre": "Golden Guardian",
+      "Precio": 24.99,
+      "Color": "Yellow",
+      "Tipos": "Legendary"
+    },
+    {
+      "Nombre": "Violet Vortex",
+      "Precio": 10.99,
+      "Color": "Purple",
+      "Tipos": "Common"
+    },
+    {
+      "Nombre": "Amber Aviator",
+      "Precio": 15.99,
+      "Color": "Orange",
+      "Tipos": "Rare"
+    },
+    {
+      "Nombre": "Pink Panther",
+      "Precio": 20.99,
+      "Color": "Pink",
+      "Tipos": "Epic"
+    },
+    {
+      "Nombre": "Cyan Cyclone",
+      "Precio": 25.99,
+      "Color": "Cyan",
+      "Tipos": "Legendary"
+    },
+    {
+      "Nombre": "Teal Tempest",
+      "Precio": 12.99,
+      "Color": "Teal",
+      "Tipos": "Common"
+    },
+    {
+      "Nombre": "Lime Lancer",
+      "Precio": 17.99,
+      "Color": "Lime",
+      "Tipos": "Rare"
+    },
+    {
+      "Nombre": "Bronze Blaster",
+      "Precio": 22.99,
+      "Color": "Brown",
+      "Tipos": "Epic"
+    },
+    {
+      "Nombre": "Gray Guardian",
+      "Precio": 27.99,
+      "Color": "Gray",
+      "Tipos": "Legendary"
+    },
+    {
+      "Nombre": "Black Knight",
+      "Precio": 13.99,
+      "Color": "Black",
+      "Tipos": "Common"
+    },
+    {
+      "Nombre": "White Warrior",
+      "Precio": 18.99,
+      "Color": "White",
+      "Tipos": "Rare"
+    },
+    {
+      "Nombre": "Silver Sentinel",
+      "Precio": 23.99,
+      "Color": "Silver",
+      "Tipos": "Epic"
+    },
+    {
+      "Nombre": "Golden Godsend",
+      "Precio": 28.99,
+      "Color": "Gold",
+      "Tipos": "Legendary"
+    },
+    {
+      "Nombre": "Ruby Ruler",
+      "Precio": 11.99,
+      "Color": "Red",
+      "Tipos": "Common"
+    },
+    {
+      "Nombre": "Sapphire Sniper",
+      "Precio": 16.99,
+      "Color": "Blue",
+      "Tipos": "Rare"
+    },
+    {
+      "Nombre": "Jade Juggernaut",
+      "Precio": 21.99,
+      "Color": "Green",
+      "Tipos": "Epic"
+    },
+    {
+      "Nombre": "Amethyst Avenger",
+      "Precio": 26.99,
+      "Color": "Purple",
+      "Tipos": "Legendary"
+    }
+  ]  
